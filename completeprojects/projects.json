@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website showcasing skills and projects. Built using HTML5, CSS3, JavaScript, and JSON, with responsive design and dynamic project gallery.",
+    "image": "assets/images/projects/Portfolio.png", 
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://wa.me/+917039716954?text=Hello,%20I%20would%20like%20to%20request%20the%20source%20code%20for%20the%20Portfolio%20Website.%20Can%20you%20share%20it%20with%20me?"
+    }
+  },
+  {
+    "name": "Flappy Bird Game",
+    "desc": "A dynamic, browser-based game built using JavaScript and HTML5 Canvas. Features smooth animations, dynamic obstacles, and engaging gameplay.",
+    "image": "assets/images/projects/flappy-bird.png",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://wa.me/+917039716954?text=Hello,%20I%20would%20like%20to%20request%20the%20source%20code%20for%20the%20Flappy%20Bird%20Game.%20Can%20you%20share%20it%20with%20me?"
+    }
+  },
+  {
+    "name": "Gym Fitness App",
+    "desc": "A feature-packed Android app for fitness tracking. Includes workout plans, diet logs, and activity tracking, built using Java/Kotlin for a user-friendly experience.",
+    "image": "assets/images/projects/Gym.png",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://wa.me/+917039716954?text=Hello,%20I%20would%20like%20to%20request%20the%20source%20code%20for%20the%20Gym%20Fitness%20App.%20Can%20you%20share%20it%20with%20me?"
+    }
+  },
+  {
+    "name": "Panda Virtual Assistant",
+    "desc": "An AI-driven personal assistant, leveraging Natural Language Processing (NLP) to handle tasks like reminders, weather updates, and online searches.",
+    "image": "assets/images/projects/panda-virtual-assistant.png",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://wa.me/+917039716954?text=Hello,%20I%20would%20like%20to%20request%20the%20source%20code%20for%20the%20Panda%20Virtual%20Assistant.%20Can%20you%20share%20it%20with%20me?"
+    }
+  },
+  {
+    "name": "Interior Design Website",
+    "desc": "A visually captivating interior design website with a user-centric layout and interactive features, designed using JavaScript, HTML5, and CSS3.",
+    "image": "assets/images/projects/interior.png",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://wa.me/+917039716954?text=Hello,%20I%20would%20like%20to%20request%20the%20source%20code%20for%20the%20Interior%20Design%20Website.%20Can%20you%20share%20it%20with%20me?"
+    }
+  }
+]
