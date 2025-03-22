@@ -20,4 +20,4 @@ This **Portfolio Website** showcases my **skills, experience, and projects**. It
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Portfolio_Site.git
+   git clone https://github.com/yourusername/Ashish_PortFolio.git
