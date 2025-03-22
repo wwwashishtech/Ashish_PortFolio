@@ -1,17 +1,7 @@
-
----
-
-## **3️⃣ Portfolio Website**
-**📌 Repository Name:** `CodeAlpha_Portfolio_Site`  
-**📜 Description:** A personal portfolio website showcasing skills, experience, and projects, built using HTML, CSS, and JavaScript.
-
-### **README.md**
-```markdown
-# CodeAlpha - Portfolio Website 🌐
+# Portfolio Website 🌐
 
 ## 📌 Overview
-This **Portfolio Website** was created during my **Frontend Development Internship** at **@CodeAlpha**.  
-It is a personal website that showcases my **skills, experience, and projects**.
+This **Portfolio Website** showcases my **skills, experience, and projects**. It was created using HTML, CSS, and JavaScript to provide a personal and professional online presence.
 
 ## 🛠 Technologies Used
 - HTML  
@@ -25,9 +15,9 @@ It is a personal website that showcases my **skills, experience, and projects**.
 - Mobile-friendly  
 
 ## 🚀 Live Demo  
-[🔗 GitHub Pages Link (If Hosted)](#)
+[🔗 Live Demo](https://wwwashishvishwakarma.netlify.app/)
 
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_Portfolio_Site.git
+   git clone https://github.com/yourusername/Portfolio_Site.git
